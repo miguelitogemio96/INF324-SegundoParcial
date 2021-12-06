@@ -1,0 +1,18 @@
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.exe.config
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.exe
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\bin\Debug\Pregunta 3.pdb
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.csprojResolveAssemblyReference.cache
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\obj\Debug\Pregunta_3.Form1.resources
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\obj\Debug\Pregunta_3.Properties.Resources.resources
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.csproj.GenerateResource.Cache
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.exe
+c:\users\migue\onedrive\documentos\visual studio 2012\Projects\Pregunta 3\Pregunta 3\obj\Debug\Pregunta 3.pdb
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\bin\Debug\Pregunta 3.exe.config
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\obj\Debug\Pregunta 3.exe
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\obj\Debug\Pregunta 3.pdb
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\bin\Debug\Pregunta 3.exe
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\bin\Debug\Pregunta 3.pdb
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\obj\Debug\Pregunta 3.csprojResolveAssemblyReference.cache
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\obj\Debug\Pregunta_3.Form1.resources
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\obj\Debug\Pregunta_3.Properties.Resources.resources
+D:\Informatica\9no Semestre\INF-324\Examen Final\Pregunta1\preguntas 3\Pregunta 3\obj\Debug\Pregunta 3.csproj.GenerateResource.Cache
